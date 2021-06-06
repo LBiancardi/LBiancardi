@@ -1,7 +1,6 @@
 - 👋 Hi, I’m <a href='https://github.com/LBiancardi/frontend-challenge/commits?author=LBiancardi'><strong> @LBiancardi </strong></a>
 - 👀 I’m interested in soccer, videogames, surf and coding
 - 🌱 I’m currently learning Python,SQL and Django
-- 💞️ I’m looking to collaborate on social projects
 - 📫 How to reach me <br>
 Email: luisfbiancardi@gmail.com <br>
 Linkedin: <a href='https://www.linkedin.com/in/luis-biancardi/'> <strong>  Luis Biancardi </strong> </a>
