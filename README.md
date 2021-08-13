@@ -18,6 +18,7 @@ A **TECHNOLOGY** ***Enthusiast*** 🚀.
 **About Me!**
 
 <!-- - 👨🏽‍💻 I'm currentyly seeking my bachelors degree in <strong> Business Management for IT at SNHU </strong> -->
+- 👨🏽‍💻 I'm currentyly doing a bootcamp in <strong> Full Stack Development at App Academy </strong>
 - 👀 I’m interested in soccer, videogames, surf and coding
 - 🌱 I’m currently learning Python, SQL, Django and JavaScript.
 - 🤔 My interest lies in front end development.
