@@ -17,10 +17,10 @@ A **TECHNOLOGY** ***Enthusiast*** 🚀.
 <br />
 **About Me!**
 
-- 👨🏽‍💻 I'm currentyly seeking my bachelors degree in <strong> Business Management for IT at SNHU </strong>
+<!-- - 👨🏽‍💻 I'm currentyly seeking my bachelors degree in <strong> Business Management for IT at SNHU </strong> -->
 - 👀 I’m interested in soccer, videogames, surf and coding
-- 🌱 I’m currently learning Python, SQL, Django and Java.
-- 🤔 My interest lies in back end and iOS app development.
+- 🌱 I’m currently learning Python, SQL, Django and JavaScript.
+- 🤔 My interest lies in front end development.
 - 📫 Email me at luisfbiancardi@gmail.com
 
 
