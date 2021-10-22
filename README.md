@@ -1,4 +1,5 @@
 <h3> Hey, I’m <a href='https://github.com/LBiancardi'><strong> Luis Biancardi </strong></a></h3>
+<h5> A computer once beat me at chess, but it was no match for me at kick boxing. </h5>
 <a href='https://www.linkedin.com/in/luis-biancardi/'>
   <img align="left" alt="Luis Biancardi's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -20,7 +21,7 @@ A **TECHNOLOGY** ***Enthusiast*** 🚀.
 <!-- - 👨🏽‍💻 I'm currentyly seeking my bachelors degree in <strong> Business Management for IT at SNHU </strong> -->
 - 👨🏽‍💻 I'm currentyly doing a bootcamp in <strong> Full Stack Development at App Academy </strong>
 - 👀 I’m interested in soccer, videogames, surf and coding
-- 🌱 I’m currently learning Python, SQL, Django and JavaScript.
+- 🌱 I’m currently learning JavaScript, HTML, CSS and React.
 - 🤔 My interest lies in front end development.
 - 📫 Email me at luisfbiancardi@gmail.com
 
