@@ -1,5 +1,5 @@
 <h3> Hey, I’m <a href='https://lbiancardi.github.io/biancardi/'><strong> Luis Biancardi </strong></a></h3>
-<h5> A computer once beat me at chess, but it was no match for me at kick boxing. </h5>
+<h5> Front-end developer Jr | JavaScript | React.js | CSS | HTML </h5>
 <a href='https://www.linkedin.com/in/luis-biancardi/'>
   <img align="left" alt="Luis Biancardi's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -33,7 +33,7 @@ A **TECHNOLOGY** ***Enthusiast*** 🚀.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 **Back end:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 **Database:**   
