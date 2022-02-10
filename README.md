@@ -6,6 +6,8 @@
 <h5 align="center"> Front-end developer Jr | JavaScript | React.js | CSS | HTML </h5>
 <h3 align="center">A passionate Front-End developer from Brazil</h3>
 
+<p>I am a Javascript Engineer and Junior Developer that focuses on React, Design Systems, Web Accessibility and Serverless Technologies . I have a passion for puzzles and technology and that’s how I found my passion with coding. </p>
+
 - 🔭 I’m currently working on my **Street Sweeping Alert Project**
 
 - 👀 I’m currently learning **React, JavaScript, HTML5 and CSS3**
