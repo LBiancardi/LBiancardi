@@ -12,7 +12,7 @@
 
 A **TECHNOLOGY** ***Enthusiast*** 🚀.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
 **About Me!**
 
@@ -42,9 +42,8 @@ A **TECHNOLOGY** ***Enthusiast*** 🚀.
 **Version control:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=LBiancardi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<br />
+<!-- <br /> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LBiancardi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/LBiancardi/github-readme-stats)
 
 <!-- Linkedin: <a href='https://www.linkedin.com/in/luis-biancardi/'> <strong>  Luis Biancardi </strong> </a> -->
