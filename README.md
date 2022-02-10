@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;&center=true&height=50"></a>
+  <a href="https://github.com/LBiancardi/"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;&center=true&height=50"></a>
 </p>
 <hr/>
 <h5 align="center"> Front-end developer Jr | JavaScript | React.js | CSS | HTML </h5>
