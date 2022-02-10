@@ -21,7 +21,7 @@ A **TECHNOLOGY** ***Enthusiast*** 🚀.
 - 👀 I’m interested in soccer, videogames, surf and coding
 - 🌱 I’m currently learning JavaScript, HTML, CSS and React.
 - 🤔 My interest lies in front end development.
-- 📫 Email me at luisfbiancardi@gmail.com
+- 📫 Message me on LinkedIn <a href='https://www.linkedin.com/in/luis-biancardi/'>Luis Biancardi</a>
 
 
 **Languages and Tools:**
